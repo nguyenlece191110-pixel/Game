@@ -19,10 +19,7 @@ import javax.imageio.ImageIO;
 import javax.swing.JPanel;
 import javax.swing.Timer;
 
-/**
- *
- * @author Tran Quoc Thai - CE190243
- */
+
 public class GamePanel extends JPanel implements ActionListener, KeyListener {
 
     Ball ball;
