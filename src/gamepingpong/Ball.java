@@ -9,10 +9,7 @@ import java.awt.Graphics;
 import java.awt.Rectangle;
 import java.awt.image.BufferedImage;
 
-/**
- *
- * @author Tran Quoc Thai - CE190243
- */
+
 public class Ball {
 
     int x, y;
