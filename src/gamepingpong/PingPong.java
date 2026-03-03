@@ -5,10 +5,7 @@
  */
 package gamepingpong;
 
-/**
- *
- * @author Tran Quoc Thai - CE190243
- */
+
 public class PingPong extends javax.swing.JFrame {
 
     /**
