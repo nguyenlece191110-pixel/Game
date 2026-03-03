@@ -7,10 +7,7 @@ package gamepingpong;
 
 import javax.swing.JFrame;
 
-/**
- *
- * @author Tran Quoc Thai - CE190243
- */
+
 public class GameFrame {
 
     public static void main(String[] args) {
